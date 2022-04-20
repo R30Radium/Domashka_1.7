@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         //Задание 1
-        //*RRR
+        //*RRRRr33
 
         String firstName = " Ivan ";
         String middleName = " Ivanov ";
